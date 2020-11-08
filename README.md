@@ -1,9 +1,14 @@
 # Quotes
 # Author[Farzana isack]
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
-
+  ## DESCRIPTION
+  * This is a website application where user can add or view new quote and also like the quotes.
 ## Development server
-
+ ## TECHNOLOGY USE
+ * BOOTSTRAP
+ * HTML
+ * ANGULAR CLI
+ * TYPESCRIPT
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
