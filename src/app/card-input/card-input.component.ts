@@ -27,5 +27,6 @@ export class CardInputComponent implements OnInit {
   }
   delete(i){ 
     this.quotes.splice(i, 1);
+    let deleteQuote = {};
   }
 }      
