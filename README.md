@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   * This is a website application where user can add or view new quote and also like the quotes.
 ## Development server
  ## TECHNOLOGY USE
- * BOOTSTRAP
+ * BOOTSTRAP4
  * HTML
  * ANGULAR CLI
  * TYPESCRIPT
