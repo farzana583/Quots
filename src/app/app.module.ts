@@ -25,3 +25,4 @@ import { DateCountPipe } from './date-count.pipe';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+export class AppBootstrapModule {}
